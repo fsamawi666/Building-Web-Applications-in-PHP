@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+    <title> ... Fares Ahmed Abdulrahman AlSamawi c85272 ... </title>
+    <meta charset="UTF-8">
+    <style>
+    .myDiv {
+        border: 5px outset red;
+        background-color: lightblue;
+        text-align: center;
+    } 
+  </style>
+  </head>
+  <body>
+    <h1>In the office</h1>
+      <p>
+        Now i am just hanging in the office learning a bit of html in order to work better for my boss.
+      </p>
+      <p>
+        <img src="intheoffice_2.png" alt= "intheoffice_2"> 
+      </p>
+      <p>He just catch me making this photo and he thinks I am slacking an posting instagram stories. Somebody please tell him it was for the course &#x1F62D;</p>
+      <p>Right now his eyes migth be <span style="color:red">red</span> so I better not look at his face. </p>
+      <div class="myDiv">
+        <h2>Now a random div-part with a random style I took from google</h2>
+        <p> Then some random text in the same div-part just to see how it looks. Please boss don´t fire me I promise you I´m working!😭</p>
+      </div>
+      <p>Now a list of <em>things</em> I expect of my <strong>work</strong>.</p>
+      <ul>
+        <li>
+          <p>I want it to be the bridge that I need to <a href="https://www.theguardian.com/artanddesign/jonathanjonesblog/2014/mar/21/the-10-greatest-works-art-ever">greater works.</a><em><strong> Not these though.</strong></em> Better something like <a href="https://careers.google.com/jobs/results/">these</a></p>
+        </li>
+        <li>
+          I want it to help me build a great CV.
+        </li>
+        <li>
+          <p>I want to <a href="https://www.sciencedirect.com/topics/materials-science/solidification#:~:text=Solidification%20is%20a%20process%20in,be%20observed%20by%20these%20laws.">solidify</a>  my habilities in things that I alredy know and build new habilities in things I am yet to know. </p>
+        </li>
+      </ul>
+  </body>
+</html>
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
